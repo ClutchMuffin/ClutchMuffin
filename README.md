@@ -2,6 +2,10 @@
 🎓 I'm a Third Year Computer Science Student at the University of Saskatchewan.<br>🌱 I’m currently learning C++ and Full Stack Development.<br>🔭 I’m currently working on a GUI for [Win11Debloat](https://github.com/Raphire/Win11Debloat).<br>🖥️ I'm currently looking for Internships for the Summer of 2025.<br>
 
 
+## 🏢 Work Experience
+- **Web Development Intern & Teaching Assistant (Remote)** | Interface Technologies | July 2023 – Aug 2023
+- **Junior IT Support** | Punjab National Bank | May 2022 – Aug 2022
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farzaan-rafi)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/syed___farzaan) 
