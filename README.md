@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Third Year Computer Science Student at the University of Saskatchewan.<br>🌱 I’m currently learning C++ and Full Stack Development.<br>🔭 I’m currently working on a GUI for [Win11Debloat](https://github.com/Raphire/Win11Debloat).<br>🖥️ I'm currently looking for Internships for the Summer of 2025.<br>
+🎓 I'm a Third Year Computer Science Student at the University of Saskatchewan.<br>🌱 I’m currently learning C++ and Full Stack Development.<br>🖥️ I'm currently looking for Internships for the Summer of 2025.<br>
 
 
 ## 🏢 Work Experience
